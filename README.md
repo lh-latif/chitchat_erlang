@@ -1,6 +1,6 @@
 # ChitChat Erlang
-======
-An Chat Server and Webserver, written from scratch and inspired by Whatsapp and Telegram. Using symmetric encryption, which is Diffie-Hellman Key Exchange. So technically users message cannot be readed or viewed by third party.
+---
+An Chat Server and Webserver, written from scratch and inspired by Whatsapp and Telegram. Using symmetric encryption, which is Diffie-Hellman Key Exchange. So technically users message cannot be read or viewed by third party.
 Build with Erlang programming language, whose has been built for fault-tolerance, High scalable, and Soft-realtime System.
 
 ## Status
